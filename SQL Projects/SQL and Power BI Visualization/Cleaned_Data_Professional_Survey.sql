@@ -22,7 +22,7 @@ ethnicity varchar
 )
 -- Upload the file into the table
 COPY project.data_survey
-FROM 'C:\Users\Public\Datasets\data_analysis_survey_2.csv'
+FROM 'C:\filepath'
 DELIMITER ','
 CSV HEADER;
 
