@@ -1,5 +1,9 @@
 # Pizza Runner Challenge by Danny Ma <br />
 link: [here](https://8weeksqlchallenge.com/case-study-1/) <br />
 
-This is the first case study in Danny Ma's 8 weeks SQL challenge website. This project was launched in May 21, 2021 by Danny Ma. This case study is a practice study for me, as I have refreshed my skills with SQL. 
+This is the first case study in Danny Ma's 8 weeks SQL challenge website. This project was launched in May 21, 2021 by Danny Ma. This case study is a practice study for me, as I have refreshed my skills with SQL. I did the challenge with PostgreSQL and pgAdmin4.
+
+Skills: Data Manipulation Language SQL, Aggregates in SQL, Customer Analysis, Window functions in SQL
+
+Note: All of the queries of this github repo are my own, I do not have access to the official answers. The 8 weeks data challenge is open for everyone to try but the official solutions are paid content. 
 
