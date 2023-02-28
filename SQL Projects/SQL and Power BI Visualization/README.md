@@ -13,6 +13,6 @@ Key skills:
 - Creating a tables, CTEs, Temp Tables
 - Exporting to CSV
 
-# 2. Power BI Visalization: 
+# 2. Power BI Visualization: 
 
 
