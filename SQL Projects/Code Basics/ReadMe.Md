@@ -2,7 +2,7 @@
 ## Title: Provide Insights to Management in Consumer Goods Domain
 [project page](https://codebasics.io/challenge/codebasics-resume-project-challenge) <br />
 
-###Input:
+### Input:
 - SQL adhoc requests answers:
   - [My answers](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/blob/main/SQL%20Projects/Code%20Basics/consumer_goods_insights.sql)
 - Power BI dashboard for insights
