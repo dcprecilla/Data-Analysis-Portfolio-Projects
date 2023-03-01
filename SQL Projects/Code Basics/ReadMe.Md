@@ -2,7 +2,12 @@
 ## Title: Provide Insights to Management in Consumer Goods Domain
 [project page](https://codebasics.io/challenge/codebasics-resume-project-challenge) <br />
 
-<b>Summary:</b>
+###Input:
+- SQL adhoc requests answers:
+  - [My answers](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/blob/main/SQL%20Projects/Code%20Basics/consumer_goods_insights.sql)
+- Power BI dashboard for insights
+
+<b>Summary Requirements:</b>
 Domain:  Consumer Goods | Function: Executive Management
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
