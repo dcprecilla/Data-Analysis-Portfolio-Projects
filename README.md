@@ -6,5 +6,13 @@ Hello! Thank you for landing on my portfolio page, I appreciate you exploring th
 - [MS Excel](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/tree/main/Excel)
 - [Power BI](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/tree/main/Power_BI)
 - Tableu
-- Python (minor projects as I learn by doing some tutorials and exploring some tricks on my own) 
+
+# Other projects:
+## Python:
+
+### [My submission for DataCamp's competition: everyone can learn python scholarship](https://app.datacamp.com/workspace/w/e11b35a9-8c1a-4e12-879d-1cbf689ade6e)
+  - This is my very first coding competition to re-iterate what I have learned with their Python Fundamentals track, Data Manipulation with Pandas course and Joining data with pandas course. The project is with Datacamp's own workspace that is very much like jupyter notebooks. 
+
+### [Exploratory Data Analysis using Pandas and Matplotlib](https://app.datacamp.com/workspace/w/70726f93-8057-45c7-afe0-4d007f475f8e/edit)
+  - This is the after courser project from the Data Manipulation with pandas courser from datacamp. It serves as a project and review of the concepts that I have learned from the course. 
 
