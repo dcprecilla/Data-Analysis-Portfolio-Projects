@@ -8,3 +8,4 @@ We had to build a dashboard based on the Revenue Manager's requests:
 - Create the metrics according to the metric list.
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
+![image](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/blob/main/Power_BI/Revenue%20Insights%20for%20a%20Hospitality%20Company.png)
