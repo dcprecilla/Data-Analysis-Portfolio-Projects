@@ -5,9 +5,14 @@ Hello! Thank you for landing on my portfolio page, I appreciate you exploring th
 - [SQL](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/tree/main/SQL%20Projects)
 - [MS Excel](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/tree/main/Excel)
 - [Power BI](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/tree/main/Power_BI)
-- Tableu
 
 # Other projects:
+## Tableu:
+1. [Exploratory Dashboard Analysis of Seattle Airbnb data](https://public.tableau.com/app/profile/darlene.precilla/viz/AirbnbDashboardProject_16741940103850/AirbnbDashboard):
+- Created a Dahsboard showing the different types of listings in the state of Seattle.
+- Exploring what kind of room type or house types are best to invest in
+- Knowing the zipcodes where to invest for a property if you want to buy a property in Seattle
+
 ## Python:
 
 ### [My submission for DataCamp's competition: everyone can learn python scholarship](https://app.datacamp.com/workspace/w/e11b35a9-8c1a-4e12-879d-1cbf689ade6e)
