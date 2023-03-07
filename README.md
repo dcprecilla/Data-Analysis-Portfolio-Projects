@@ -12,6 +12,10 @@ Hello! Thank you for landing on my portfolio page, I appreciate you exploring th
 - Created a Dahsboard showing the different types of listings in the state of Seattle.
 - Exploring what kind of room type or house types are best to invest in
 - Knowing the zipcodes where to invest for a property if you want to buy a property in Seattle
+2. [Personal Finance Dashboard](https://public.tableau.com/app/profile/darlene.precilla/viz/PersonalFinanceDashboard_16781770436690/PersonalFinanceDashboard?publish=yes)
+- A dashboard tracking expenditures for the years 2017 t0 2018.
+- Visually determine the biggest expenditure category
+- Identifying the trend of money coming in and spending
 
 ## Python:
 
