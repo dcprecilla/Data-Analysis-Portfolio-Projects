@@ -7,7 +7,7 @@ Hello! Thank you for landing on my portfolio page, I appreciate you exploring th
 ## [Power BI](https://github.com/dcprecilla/Data-Analysis-Portfolio-Projects/tree/main/Power_BI)
 
 # Other projects:
-## Tableu:
+## Tableau:
 1. [Exploratory Dashboard Analysis of Seattle Airbnb data](https://public.tableau.com/app/profile/darlene.precilla/viz/AirbnbDashboardProject_16741940103850/AirbnbDashboard):
 - Created a Dahsboard showing the different types of listings in the state of Seattle.
 - Exploring what kind of room type or house types are best to invest in
@@ -16,6 +16,10 @@ Hello! Thank you for landing on my portfolio page, I appreciate you exploring th
 - A dashboard tracking expenditures for the years 2017 t0 2018.
 - Visually determine the biggest expenditure category
 - Identifying the trend of money coming in and spending
+
+3. [Twitter Airline Sentiment Dahsboard](https://public.tableau.com/app/profile/darlene.precilla/viz/Twitter_Sentiment_Dashboard/Dashboard1?publish=yes)
+- Visualized the division of tweets from passengers to negative, neutral or positive
+- Seeing the breakdown of the tweets per airline and sentiment
 
 ## Python:
 
